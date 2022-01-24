@@ -11,6 +11,7 @@
     font-size: 64px;
     text-align: center;
     text-transform: uppercase;
+    color: purple;
 }
 
 .gdancing {
@@ -41,6 +42,7 @@ a {
     text-align: center;
     text-transform: uppercase;
     font-family: fantasy;
+    color: red;
 }
 
 .lasagnapicture {
@@ -62,6 +64,7 @@ a {
     text-align: center;
     text-transform: uppercase;
     font-family: fantasy;
+    color: green;
 }
 
 .teriyakipicture {
@@ -83,6 +86,7 @@ a {
     text-align: center;
     text-transform: uppercase;
     font-family: fantasy;
+    color: orange;
 }
 
 .pancakepicture {
