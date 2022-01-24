@@ -19,3 +19,8 @@
     font-size: 32px;
     text-align: center;
 }
+
+.linkstorecipes li {
+    list-style: none;
+    font-size: 18px;
+}
