@@ -100,8 +100,3 @@ a {
     margin-top: 3%;
     text-align: center;
 }
-
-#steps .stepstitle, ol li {
-    text-align: center;
-    list-style-type: none;
-}
