@@ -1,7 +1,11 @@
+/* General Styling */
+
 * {
     background-color:  #b3b3ff;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Home Page */
 
 #mainpageheader {
     font-size: 64px;
@@ -29,3 +33,26 @@
 a {
     text-decoration: none;
 }
+
+/* Lasagna */ 
+
+#lasagnaheader {
+    font-size: 64px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+
+.lasagnapicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.lasangarecipe, p {
+    text-align: center;
+}
+
+/* Teriyaki Chicken /*
+
