@@ -52,7 +52,26 @@ a {
 
 .lasangarecipe, p {
     text-align: center;
+    margin-top: 3%;
 }
 
-/* Teriyaki Chicken /*
+/* Teriyaki Chicken */
 
+#teriyakiheader {
+    font-size: 64px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+
+.teriyakipicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.teriyakirecipe, p {
+    margin-top: 3%;
+    text-align: center;
+}
