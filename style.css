@@ -79,6 +79,11 @@ a {
     text-align: center;
 }
 
+.ingredients,
+.steps {
+    text-decoration: underline;
+}
+
 /* Pancakes Page */
 
 #pancakesheader {
